@@ -1,0 +1,12 @@
+﻿@model SampleSite.Models.PageModels.UpdateUserPageModel
+
+<div class="text-center">
+    <h1 class="display-4">Update User</h1>
+</div>
+
+<form asp-action="Update"
+      asp-controller="User"
+      method="post"
+      id="updateUser">
+    @Html.DisplayFor(m => m.UserForm)
+</form>

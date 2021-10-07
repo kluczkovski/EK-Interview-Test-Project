@@ -1,0 +1,12 @@
+﻿@model SampleSite.Models.PageModels.CreateUserPageModel
+
+<div class="text-center">
+    <h1 class="display-4">Create User</h1>
+</div>
+
+<form asp-action="Create"
+      asp-controller="User"
+      method="post"
+      id="createUser">
+    @Html.DisplayFor(m => m.UserForm)
+</form>

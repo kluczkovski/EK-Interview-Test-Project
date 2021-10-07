@@ -1,0 +1,27 @@
+﻿@model SampleSite.Models.ViewModels.ProductListItemViewModel
+
+<tr>
+    <td>
+        @Html.DisplayFor(x => x.Id)
+    </td>
+    <td>
+        @Html.DisplayFor(x => x.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(x => x.Description)
+    </td>
+    <td>
+        @Html.DisplayFor(x => x.Price)
+    </td>
+    <td>
+        @Html.DisplayFor(x => x.Stock)
+    </td>
+    <td>
+        <a asp-action="Update" asp-route-id="@Model.Id">Update</a>
+        <form asp-action="Delete">
+            <input type="hidden" value="@Model.Id" name="id" />
+            <input type="submit" value="Delete" />
+        </form>
+
+    </td>
+</tr>

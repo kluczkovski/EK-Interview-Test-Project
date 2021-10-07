@@ -1,0 +1,198 @@
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/libman.json
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.deps.json
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.runtimeconfig.json
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.runtimeconfig.dev.json
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.pdb
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.Views.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.Views.pdb
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/ekluczkovski/Projects/interview-test-project/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.csproj.AssemblyReference.cache
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.AssemblyInfoInputs.cache
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.AssemblyInfo.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.csproj.CoreCompileInputs.cache
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.MvcApplicationPartsAssemblyInfo.cache
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.RazorAssemblyInfo.cache
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.RazorAssemblyInfo.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/staticwebassets/SampleSite.StaticWebAssets.Manifest.cache
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/staticwebassets/SampleSite.StaticWebAssets.xml
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/scopedcss/bundle/SampleSite.styles.css
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.TagHelpers.input.cache
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.TagHelpers.output.cache
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.RazorCoreGenerate.cache
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Product/Create.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Product/DisplayTemplates/ProductForm.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Product/DisplayTemplates/ProductListItemViewModel.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Product/Update.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/User/Create.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/User/DisplayTemplates/UserForm.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/User/DisplayTemplates/UserListItemViewModel.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/User/Update.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.RazorTargetAssemblyInfo.cache
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.RazorTargetAssemblyInfo.cs
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.Views.pdb
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.csproj.CopyComplete
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.dll
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.pdb
+/Users/ekluczkovski/Projects/interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.genruntimeconfig.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/libman.json
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.deps.json
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.runtimeconfig.json
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.runtimeconfig.dev.json
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.pdb
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.Views.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/SampleSite.Views.pdb
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.csproj.AssemblyReference.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.AssemblyInfoInputs.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.AssemblyInfo.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.csproj.CoreCompileInputs.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.MvcApplicationPartsAssemblyInfo.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.RazorAssemblyInfo.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.RazorAssemblyInfo.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/staticwebassets/SampleSite.StaticWebAssets.Manifest.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/staticwebassets/SampleSite.StaticWebAssets.xml
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/scopedcss/bundle/SampleSite.styles.css
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.TagHelpers.input.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.TagHelpers.output.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.RazorCoreGenerate.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Product/Create.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Product/DisplayTemplates/ProductForm.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Product/DisplayTemplates/ProductListItemViewModel.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Product/Update.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/User/Create.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/User/DisplayTemplates/UserForm.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/User/DisplayTemplates/UserListItemViewModel.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/User/Update.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.RazorTargetAssemblyInfo.cache
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.RazorTargetAssemblyInfo.cs
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.Views.pdb
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.csproj.CopyComplete
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.dll
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.pdb
+/Users/ekluczkovski/Projects/E.K - interview-test-project/obj/Debug/netcoreapp3.1/SampleSite.genruntimeconfig.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/libman.json
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/SampleSite.deps.json
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/SampleSite.runtimeconfig.json
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/SampleSite.runtimeconfig.dev.json
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/SampleSite.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/SampleSite.pdb
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/SampleSite.Views.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/SampleSite.Views.pdb
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.csproj.AssemblyReference.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.AssemblyInfoInputs.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.AssemblyInfo.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.csproj.CoreCompileInputs.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.MvcApplicationPartsAssemblyInfo.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.RazorAssemblyInfo.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.RazorAssemblyInfo.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/staticwebassets/SampleSite.StaticWebAssets.Manifest.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/staticwebassets/SampleSite.StaticWebAssets.xml
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/scopedcss/bundle/SampleSite.styles.css
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.TagHelpers.input.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.TagHelpers.output.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.RazorCoreGenerate.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/Product/Create.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/Product/DisplayTemplates/ProductForm.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/Product/DisplayTemplates/ProductListItemViewModel.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/Product/Update.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/User/Create.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/User/DisplayTemplates/UserForm.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/User/DisplayTemplates/UserListItemViewModel.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/User/Update.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.RazorTargetAssemblyInfo.cache
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.RazorTargetAssemblyInfo.cs
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.Views.pdb
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.csproj.CopyComplete
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.dll
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.pdb
+/Users/ekluczkovski/Projects/EK-Interview-Test-Project/obj/Debug/netcoreapp3.1/SampleSite.genruntimeconfig.cache
